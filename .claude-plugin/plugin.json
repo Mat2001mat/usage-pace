@@ -1,0 +1,6 @@
+{
+  "name": "usage-pace",
+  "version": "0.1.0",
+  "description": "A row above the prompt comparing weekly usage to a straight-line pace toward the reset",
+  "types": "./types/index.d.ts"
+}
